@@ -2,7 +2,10 @@ html{
     scroll-behavior: smooth;
 }
 .text-gray-60p0{
-    color:mediumslateblue
+    color:mediumslateblue;
+}
+.text-gray-60p0:hover{
+    color:gray;
 }
 .object-cover{
     border-radius: 6%;
