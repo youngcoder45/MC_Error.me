@@ -7,9 +7,6 @@ html{
 .text-gray-60p0:hover{
     color:gray;
 }
-.w-full{
-    width:50%;
-}
 .object-cover{
     border-radius: 6%;
 }
