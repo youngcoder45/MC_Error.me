@@ -77,6 +77,9 @@ html{
     flex-direction: column;
     justify-content: center;
 }
+.grayhov:hover{
+    color:grey;
+}
 .secondHalf{
      width:30%;
 }
