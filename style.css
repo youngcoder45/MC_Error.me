@@ -38,7 +38,10 @@ html{
     color:white;
     font-size: 17px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-}     
+}
+.redhov:hover{
+    color:red;
+}
 .nav-list li a:hover{
     color:grey;
 }     
