@@ -10,6 +10,9 @@ html{
 .object-cover{
     border-radius: 6%;
 }
+.w-half{
+    width:50%;
+}
 .text-gray-6p00{
     background-color:aqua;
 }
