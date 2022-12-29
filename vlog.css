@@ -47,13 +47,21 @@ html{
 .ptext-gray-600{
     background-color: darkturquoise;
 }
-.Butt{
-    padding:1px 13px;
+.paddingdown2{
+    padding-bottom: 20px;
+}
+.colchange1{
+    color:crimson;
+    padding-bottom: 5px;
+}
+.Button3{
+    /* padding-top:20px; */
+    padding:1px 14px;
     margin:7px 3px; 
     border:2px solid black;
-    border-radius: 8px;
+    border-radius: 5px;
     background:none;
-    background-color:antiquewhite;
+    background-color:rgb(250, 185, 244);
     color:#000000;
     cursor:pointer;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
