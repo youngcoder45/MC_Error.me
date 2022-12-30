@@ -54,6 +54,15 @@ html{
     color:crimson;
     padding-bottom: 5px;
 }
+.fontsizelow1{
+    font-size:large;
+}
+.col2{
+    color:aqua;
+}
+.invisible{
+    color:transparent;
+}
 .Button3{
     /* padding-top:20px; */
     padding:1px 14px;
