@@ -11,6 +11,10 @@ html{
     justify-content:center;
     align-items:center;
 }
+.hovta:hover{
+    color:grey;
+    cursor:pointer;
+}
 .logo1 img{
     width:33%;
     border:2px solid white;
