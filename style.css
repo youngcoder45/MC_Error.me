@@ -11,6 +11,9 @@ html{
     justify-content:center;
     align-items:center;
 }
+.hovta{
+    color:blue;
+}
 .hovta:hover{
     color:grey;
     cursor:pointer;
