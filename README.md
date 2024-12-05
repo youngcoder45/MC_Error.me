@@ -1,8 +1,14 @@
-# MC_Error.me
-This is a simple Website Created by Me using Css,Html And JS
-This website Link is https://mcerror.netlify.app
-This website has a special feature You can buy some Music beats from this website
-This is my first website Created for Somebody else And Published
+# MC Error
+This Website Created by Me, Is my First Project for an official Music organisation Mc Error.
+
+This Website has been created using Css,Html And JS
+
+Website Link: https://mcerror.netlify.app
+
+## Special Features ##
+This website has a special feature that You can buy some Music beats of The Mc Error Music Organisation from this website.
+
+This Website has been published to the internet by using the Netlify Web hosting Webpage.
      
-Hope You will Like it Star and Fork it .
+Hope You will Like My Project.
 
