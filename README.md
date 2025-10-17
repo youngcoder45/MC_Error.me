@@ -1,5 +1,5 @@
 # MC Error
-This Website Created by Me, Is my First Project for an official Music organisation Mc Error.
+This Website Created by Me, Is my First Project for an official Music organisation Mc Error..
 
 This Website has been created using Css,Html And JS
 
